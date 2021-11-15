@@ -7,4 +7,4 @@ print(video_streams.title)
 name = video_streams.title
 
 video_streams.download(filename = f"{name}.mp4", 
-	output_path = "video") 
+	output_path = "Downloads") 
