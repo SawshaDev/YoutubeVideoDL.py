@@ -7,5 +7,5 @@ To be able to use, please make sure you have python3 and pytube (pip install pyt
 both of these are necessary to work
 
 # Usage
-![Put link there](https://imgur.com/a/gfXHEVZ) 
+![Put link there](https://imgur.com/0hJO2ge) 
 
