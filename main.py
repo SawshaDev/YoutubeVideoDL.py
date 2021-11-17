@@ -1,7 +1,7 @@
 import pytube
 import calliTube
 import os
-
+from pytube import YouTube
 
 def main():
     URL = input("Input url here: ")
@@ -26,3 +26,4 @@ def main():
             video_streams1.download(filename=f"{name}.mp4",
             output_path = "video")
             
+   
